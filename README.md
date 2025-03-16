@@ -3,7 +3,7 @@ A MERN stack-based URL Shortener that efficiently converts long URLs into short,
 
 
 🌟 Features
-✅ User Authentication – Register/Login using JWT authentication.
+✅ User Authentication – Register/Login using JWT authentication.\\
 ✅ URL Shortening – Convert long URLs into unique short links.
 ✅ User Dashboard – View and manage your shortened URLs.
 ✅ Redirect Functionality – Instantly redirects users from short links to the original URL.
