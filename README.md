@@ -28,7 +28,7 @@ A **MERN stack-based URL Shortener** that efficiently converts long URLs into sh
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/arrxxhh/url-shortener.git
 cd url-shortener
 
 # Install dependencies
